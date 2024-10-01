@@ -1,0 +1,6 @@
+Create a BST from given inputs (+ve) and find the in-order successor for the given element and if no successor is there print -1.
+Input: n
+n number of inputs element whose successor needs to be printed
+
+Input: 1)number of nodes and values ; 2) target node sought for successor
+Output : successor node
